@@ -1,2 +1,2 @@
-# Talkado-Whitepaper
-Talkado Latest Whitepaper
+# Talkado-Project Summary 
+Talkado Home Page
